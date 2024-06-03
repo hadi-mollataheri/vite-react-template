@@ -1,6 +1,6 @@
 # My first vite + react app
 
-I started learning and using vite, so I can update my self to the latest technology
+I started learning and using vite, so I can update my self to the latest technology.
 
 ## CLI
 
