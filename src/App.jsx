@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <p className=' bg-green-500 font-bold'>
+      <p className="mt-5 bg-green-500 p-2 text-xl font-bold">
         Hello world
       </p>
     </div>
@@ -9,4 +9,3 @@ function App() {
 }
 
 export default App;
-
